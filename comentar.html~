@@ -79,6 +79,7 @@
 			<div class="fb-comments" data-href="http://abelorian.github.io/nicolasysufamilia/comentar.html" data-numposts="10" data-colorscheme="light"></div>
 
 				<p><bt>Ilustración: <a href="#">Roberto Armijo</a></bt> - <bt>Diseño: <a href="#">Gonzalo Velásquez</a></bt> - <bt>Textos: <a href="#">Leslie Nicholls, Ramón Gómez</a></bt> </p> <p> <bt>Diagramación Web: <a href="http://desarrollando.la">Desarrollando.la</a></bt></p>
+<p> <bt>Licencia: <a href="">Distribución gratuita. Prohibida la venta.</a></bt></p>
 			</div>
 		</div><!-- /row -->
 	</div><!-- /container -->
@@ -96,7 +97,7 @@
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
   js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=1497037423883969&version=v2.0";
+  js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&appId=1497037423883969&version=v2.0";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
   </body>
