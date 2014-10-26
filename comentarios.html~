@@ -13,8 +13,8 @@
 <meta property="og:description" content="Primer cuento infantil inspirado en una familia homoparental. El texto ha sido producido por el Movilh y financiado por la Unión Europea."> 
 <meta property="og:title" content="Nicolás y sus dos papás" />
 <meta property="og:type" content="website"> 
-<meta property="og:url" content="http://nicolasysufamilia.github.io/"/> 
-<meta property="og:image" content="assets/1.png"> <meta property="og:site_name" content="desarrollando.la"/> 
+<meta property="og:url" content="http://abelorian.github.io/nicolasysufamilia/"/> 
+<meta property="og:image" content="assets/1.png"> <meta property="og:site_name" content="Nicolas y su familia"/> 
 <meta name="viewport" content="width=device-width"/>
     <link rel="shortcut icon" href="assets/favicon.ico">
 
@@ -53,7 +53,6 @@
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav navbar-right">
-		<li><a href="/">Inicio</a></li>
             <li><a href="http://www.movilh.cl/">Movilh</a></li>
             <li><a href="http://www.fundaciontriangulo.org/">Fundación Triangulo</a></li>
 		<li><a href="http://abelorian.github.io/nicolasysufamilia/comentarios.html">Comentar</a></li>
@@ -75,25 +74,10 @@
 		</div>
 		<div class="row mt centered">	
 			<div class="col-lg-8 col-lg-offset-2">
-				<p><img class="img-responsive" src="assets/1.png" alt=""></p>
-				<p><img class="img-responsive" src="assets/2.png" alt=""></p>
-				<p><img class="img-responsive" src="assets/3.png" alt=""></p>
-				<p><img class="img-responsive" src="assets/4.png" alt=""></p>
-				<p><img class="img-responsive" src="assets/5.png" alt=""></p>
-				<p><img class="img-responsive" src="assets/6.png" alt=""></p>
-				<p><img class="img-responsive" src="assets/7.png" alt=""></p>
-				<p><img class="img-responsive" src="assets/8.png" alt=""></p>
-				<p><img class="img-responsive" src="assets/9.png" alt=""></p>
-				<p><img class="img-responsive" src="assets/10.png" alt=""></p>
-				<p><img class="img-responsive" src="assets/11.png" alt=""></p>
-				<p><img class="img-responsive" src="assets/12.png" alt=""></p>
-				<p><img class="img-responsive" src="assets/13.png" alt=""></p>
-				<p><img class="img-responsive" src="assets/14.png" alt=""></p>
-				<p><img class="img-responsive" src="assets/15.png" alt=""></p>
-				<p><img class="img-responsive" src="assets/16.png" alt=""></p>
+							
+			<div class="fb-comments" data-href="http://abelorian.github.io/nicolasysufamilia/comentar.html" data-numposts="10" data-colorscheme="light"></div>
 
 				<p><bt>Ilustración: <a href="#">Roberto Armijo</a></bt> - <bt>Diseño: <a href="#">Gonzalo Velásquez</a></bt> - <bt>Textos: <a href="#">Leslie Nicholls, Ramón Gómez</a></bt> </p> <p> <bt>Diagramación Web: <a href="http://desarrollando.la">Desarrollando.la</a></bt></p>
-<p> <bt>Licencia: <a href="">Distribución gratuita. Prohibida la venta.</a></bt></p>
 			</div>
 		</div><!-- /row -->
 	</div><!-- /container -->
@@ -106,6 +90,14 @@
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="js/bootstrap.min.js"></script>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=1497037423883969&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
   </body>
 </html>
 
